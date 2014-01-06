@@ -4,8 +4,8 @@
 
 //login settings
 $users = array(
-                'robert' => 'password',
-                'username' => 'password'
+                'Enter username here' => 'enter password',
+                'Enter other username here' => 'enter other password',
         );
 
 // json file
